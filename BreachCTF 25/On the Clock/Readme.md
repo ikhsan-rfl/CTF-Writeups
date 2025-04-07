@@ -8,6 +8,7 @@ Flag Format: Breach{originAirportCodeDestinationAirportCodeOperatorFlightNumber}
 
 ## Explanation
 ![image](images/On_The_Clock.jpeg)
+
 Given the image above, a Google Images search will return a website that contains a similar image, namely "https://www.ausgeflogen.at/murradweg-etappen/". When searching with Google Maps it was found that its location is at the coordinates `47.3655417, 15.0949284` which is in the city of Leoben, Austria. When searching, the closest airport to this location is in the city of Graz, Austria. 
 
 From the description above, the photo was taken at sunrise, which means the photo was taken in the morning, and he always talks about the month of October, which could refer to the Oktoberfest event in Munich.
