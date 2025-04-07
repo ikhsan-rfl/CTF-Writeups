@@ -15,10 +15,10 @@ From the description above, the photo was taken at sunrise, which means the phot
 
 After searching for all the data following the data obtained :
 
-Origin Airport: Graz, Austria (GRZ)
-Destination Airport: Munich, Germany (MUN)
-Depart Date: 3 April
-Depart Time: Morning
+- Origin Airport: Graz, Austria (GRZ)
+- Destination Airport: Munich, Germany (MUN)
+- Depart Date: 3 April
+- Depart Time: Morning
 
 Searched for flight dates on the website `https://www.avionio.com/en/airport/grz/departures` and found dates that match the details above.
 ![image](images/depart.png)
